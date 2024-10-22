@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Thuta<br>I am an experienced software engineer specializing in full-stack web development, with over three years of experience building responsive websites and robust applications across various industries, including healthcare, finance, and travel. My expertise spans a range of technologies, including PHP (Laravel, Livewire, Filament), JavaScript (Vue.js, React.js), and Node.js (Nest.js, Express.js), among others. I am passionate about delivering impactful digital solutions and helping businesses achieve their technology goals.
 
+# Portfolio
+Here is my Portfolio (https://thutaminthway.me/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thutaminthway2001/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thuta-min-thway-72a849226/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thutaminthway.dev) 
